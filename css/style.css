@@ -96,6 +96,7 @@ border-top: 1px solid #2c7de8;
 	margin-right: 35px;
 	color: #fff;
 	line-height: 24px;
+	text-transform: lowercase;
 }
 
 .top-info__subtitle {
@@ -463,4 +464,15 @@ display: flex;
 
 	.reviews-box__author {
 
+	}
+
+	.block__test{
+		width: 1168px;
+		height: 696px;
+		border-radius: 10px;
+		background-color: #002855;
+		margin: 0 auto;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		
 	}
